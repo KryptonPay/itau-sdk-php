@@ -16,7 +16,7 @@
         "nesbot/carbon": "^2.28",
         "symfony/serializer": "^5.0",
         "symfony/property-access": "^5.0",
-        "league/flysystem": "^1.0",
+        "league/flysystem": "^3.0",
         "guzzlehttp/guzzle": "^7.3",
         "vlucas/phpdotenv": "^5.4",
         "tightenco/collect": "^9.0"
