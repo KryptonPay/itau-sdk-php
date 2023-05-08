@@ -14,8 +14,8 @@
     "require": {
         "php": ">=7.0",
         "nesbot/carbon": "^2.28",
-        "symfony/serializer": "^5.0",
-        "symfony/property-access": "^5.0",
+        "symfony/serializer": "^6.2",
+        "symfony/property-access": "^6.2",
         "league/flysystem": "^3.0",
         "guzzlehttp/guzzle": "^7.3",
         "vlucas/phpdotenv": "^5.4",
