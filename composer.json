@@ -1,14 +1,14 @@
 {
-  "name": "kryptonpay/itau-sdk",
+  "name": "kryptontech/itau-sdk",
   "type": "library",
   "description": "Biblioteca para ",
-  "homepage": "https://www.linkedin.com/in/yago-fernandes",
+  "homepage": "https://kryptontech.com.br",
   "keywords": ["itau", "lib", "boleto"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Yago Fernandes",
-      "email": "yagof.3111@gmail.com"
+      "name": "Victor Sousa",
+      "email": "svictor@kryptontech.com.br"
     }
   ],
   "prefer-stable": true,
