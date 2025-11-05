@@ -9,7 +9,6 @@ use KryptonPay\Api\ApiContext;
 use Itau\Models\Response;
 use Symfony\Component\Serializer\Normalizer\ObjectNormalizer;
 use Symfony\Component\Serializer\Serializer;
-use Tightenco\Collect\Support\Collection;
 
 class Client
 {
@@ -65,7 +64,7 @@ class Client
             return $item;
         }
 
-        return (new Collection($item))
+        return (collect($item))
             ->reject(function ($item) {
                 return null === $item;
             })
